@@ -1,0 +1,1 @@
+package throw_exception;
